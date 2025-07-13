@@ -8,7 +8,7 @@ A pack of various themes for Tmux for 2.6 or later.
 
 1.  Clone repo to local machine:
 
-        git clone https://github.com/jimeh/tmux-themepack.git ~/.tmux-themepack
+        git clone https://github.com/mmoyles87/tmux-themepack-256colors.git ~/.tmux-themepack
 
 2.  Source desired theme in your `~/.tmux.conf`:
 
@@ -23,7 +23,7 @@ A pack of various themes for Tmux for 2.6 or later.
 
 1.  Add plugin to the list of TPM plugins in `.tmux.conf`:
 
-        set -g @plugin 'jimeh/tmux-themepack'
+        set -g @plugin 'mmoyles87/tmux-themepack-256colors'
 
 2.  Press `prefix + I` to fetch the plugin and source it. The plugin should now
     be working.

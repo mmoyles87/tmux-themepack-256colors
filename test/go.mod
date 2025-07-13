@@ -1,4 +1,4 @@
-module github.com/jimeh/tmux-themepack/test
+module github.com/mmoyles87/tmux-themepack-256colors/test
 
 go 1.13
 
