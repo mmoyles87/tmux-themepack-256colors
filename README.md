@@ -34,8 +34,14 @@ Choose which theme is loaded by setting the `@themepack` option in your
 - `set -g @themepack 'basic'` (default)
 - `set -g @themepack 'powerline/block/blue'`
 - `set -g @themepack 'powerline/block/cyan'`
+- `set -g @themepack 'powerline/block/pink'`
+- `set -g @themepack 'powerline/block/coral'`
 - `set -g @themepack 'powerline/default/green'`
+- `set -g @themepack 'powerline/default/teal'`
+- `set -g @themepack 'powerline/default/gold'`
 - `set -g @themepack 'powerline/double/magenta'`
+- `set -g @themepack 'powerline/double/navy'`
+- `set -g @themepack 'powerline/double/violet'`
 - `...`
 
 ## Themes
@@ -99,6 +105,26 @@ documentation on [Font Patching][] to patch the font yourself.
 
 ![powerline-default-yellow](https://github.com/jimeh/tmux-themepack-previews/raw/1.0.0/powerline/default/yellow-preview.png)
 
+**Powerline Brown (`powerline/default/brown`):**
+
+**Powerline Coral (`powerline/default/coral`):**
+
+**Powerline Crimson (`powerline/default/crimson`):**
+
+**Powerline Gold (`powerline/default/gold`):**
+
+**Powerline Lime (`powerline/default/lime`):**
+
+**Powerline Navy (`powerline/default/navy`):**
+
+**Powerline Pink (`powerline/default/pink`):**
+
+**Powerline Slate (`powerline/default/slate`):**
+
+**Powerline Teal (`powerline/default/teal`):**
+
+**Powerline Violet (`powerline/default/violet`):**
+
 #### Block
 
 Currently selected window is indicated by a colored block.
@@ -139,6 +165,26 @@ Currently selected window is indicated by a colored block.
 
 ![powerline-block-yellow](https://github.com/jimeh/tmux-themepack-previews/raw/1.0.0/powerline/block/yellow-preview.png)
 
+**Powerline Brown Block (`powerline/block/brown`):**
+
+**Powerline Coral Block (`powerline/block/coral`):**
+
+**Powerline Crimson Block (`powerline/block/crimson`):**
+
+**Powerline Gold Block (`powerline/block/gold`):**
+
+**Powerline Lime Block (`powerline/block/lime`):**
+
+**Powerline Navy Block (`powerline/block/navy`):**
+
+**Powerline Pink Block (`powerline/block/pink`):**
+
+**Powerline Slate Block (`powerline/block/slate`):**
+
+**Powerline Teal Block (`powerline/block/teal`):**
+
+**Powerline Violet Block (`powerline/block/violet`):**
+
 #### Double
 
 Both left and right far sides of the statusbar are colored, rather than just the
@@ -175,6 +221,24 @@ left side.
 **Powerline Double Yellow (`powerline/double/yellow`):**
 
 ![powerline-double-yellow](https://github.com/jimeh/tmux-themepack-previews/raw/1.0.0/powerline/double/yellow-preview.png)
+
+**Powerline Double Brown (`powerline/double/brown`):**
+
+**Powerline Double Coral (`powerline/double/coral`):**
+
+**Powerline Double Crimson (`powerline/double/crimson`):**
+
+**Powerline Double Gold (`powerline/double/gold`):**
+
+**Powerline Double Lime (`powerline/double/lime`):**
+
+**Powerline Double Navy (`powerline/double/navy`):**
+
+**Powerline Double Pink (`powerline/double/pink`):**
+
+**Powerline Double Teal (`powerline/double/teal`):**
+
+**Powerline Double Violet (`powerline/double/violet`):**
 
 ## Customizing
 
